@@ -1,5 +1,5 @@
 #Maintained by: RehabMan for: Laptop Patches
-#graphics_HD4K_low.txt
+#graphics_HD4C_low.txt
 
 #
 # Use this patch if your laptop has the standard 1366x768 screen
